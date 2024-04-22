@@ -1,0 +1,20 @@
+{
+    "editor.renderIndentGuides": false,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "vue",
+    ],
+    // 저장시 자동 고침
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "workbench.startupEditor": "none",
+    "eslint.packageManager": "yarn",
+    "eslint.lintTask.enable": true,
+    "better-comments.highlightPlainText": true,
+    "vetur.validation.script": false,
+    "vetur.format.options.tabSize": 1
+  }
+  

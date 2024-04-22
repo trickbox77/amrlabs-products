@@ -1,0 +1,28 @@
+{
+  "name": "RMS",
+  "short_name": "",
+  "icons": [
+      {
+        "src": "./img/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+  ],
+  "screenshots" : [
+    {
+      "src": "./img/icons/android-chrome-512x512-3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "AMRLABS | 제품출고관리",
+  "categories": ["software", "it", "web"],
+  "display_override": ["window-controls-overlay"],
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1D323D",
+  "theme_color": "#1D323D",
+  "title_bar_color": "#ffffff00",
+  "caution" : "scope is very important info. if it Won't beforeinstallprompt not trigger"
+}
